@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=BAT_PACK_12V6 Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=BAT_PACK_12V6 Pin=U13-1
+Removed Pin From Net: NetName=GND Pin=U13-4
+Removed Member From Class: ClassName=CHARGING Member=C25
+Removed Member From Class: ClassName=CHARGING Member=C26
+Removed Member From Class: ClassName=CHARGING Member=U13
+Change Component Footprint: Designator=U7 Old Footprint=FP-C04-091-OT-IPC_B New Footprint=SOT-23-OT5_M
+Change Component Footprint: Designator=U8 Old Footprint=FP-C04-091-OT-IPC_B New Footprint=SOT-23-OT5_M
+Change Component Footprint: Designator=U9 Old Footprint=FP-C04-091-OT-IPC_B New Footprint=SOT-23-OT5_M
+Change Component Comment : Designator=U7 Old Comment=MCP73831T-2ACI/OT New Comment=MCP73831T-3ACI/OT
+Change Component Comment : Designator=U8 Old Comment=MCP73831T-2ACI/OT New Comment=MCP73831T-3ACI/OT
+Change Component Comment : Designator=U9 Old Comment=MCP73831T-2ACI/OT New Comment=MCP73831T-3ACI/OT
+Change Managed Component Library Link : Designator=U7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=9401B3B3-2236-4CA9-8B20-6990A535713C New ItemGUID=4DE76D62-F4F4-40CA-A3C4-5CD154A954D9 Old RevisionGUID=603A1977-225C-4DD3-8953-758C721DD40C New RevisionGUID=A092CD6C-F202-4AA7-8786-B5508EEF3158
+Change Managed Component Library Link : Designator=U8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=9401B3B3-2236-4CA9-8B20-6990A535713C New ItemGUID=4DE76D62-F4F4-40CA-A3C4-5CD154A954D9 Old RevisionGUID=603A1977-225C-4DD3-8953-758C721DD40C New RevisionGUID=A092CD6C-F202-4AA7-8786-B5508EEF3158
+Change Managed Component Library Link : Designator=U9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=9401B3B3-2236-4CA9-8B20-6990A535713C New ItemGUID=4DE76D62-F4F4-40CA-A3C4-5CD154A954D9 Old RevisionGUID=603A1977-225C-4DD3-8953-758C721DD40C New RevisionGUID=A092CD6C-F202-4AA7-8786-B5508EEF3158
+Change component parameters: Designator = "U7" ("U7"); Footprint = "FP-C04-091-OT-IPC_B"; UniqueID = "\QNAQPWNF" ("\QNAQPWNF")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "SOT23-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "revE, Sep-2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "5-Lead Plastic Small Outline Transistor (OT) [SOT-23]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SOT-23-OT5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U8" ("U8"); Footprint = "FP-C04-091-OT-IPC_B"; UniqueID = "\DWVRLOLP" ("\DWVRLOLP")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "SOT23-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "revE, Sep-2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "5-Lead Plastic Small Outline Transistor (OT) [SOT-23]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SOT-23-OT5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U9" ("U9"); Footprint = "FP-C04-091-OT-IPC_B"; UniqueID = "\XWJBJNEN" ("\XWJBJNEN")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "SOT23-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "revE, Sep-2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "5-Lead Plastic Small Outline Transistor (OT) [SOT-23]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SOT-23-OT5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_SERVO1 Pin=SERVO2-2
+Change Net Name : Old Net Name=+5V_SERVO1 New Net Name=+5V_SERVO

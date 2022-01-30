@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=ESP32-RX NewDesignator=RX_LED
+Change Component Designator: OldDesignator=ESP32-TX NewDesignator=TX_LED
+Change Net Name : Old Net Name=NetESP32-RX_2 New Net Name=NetR4_2
+Change Net Name : Old Net Name=NetESP32-TX_2 New Net Name=NetR3_2
