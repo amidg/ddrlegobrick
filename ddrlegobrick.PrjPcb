@@ -81,7 +81,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KTDNYEFV
 
 [Document3]
-DocumentPath=MOTOR1.SchDoc
+DocumentPath=MOTOR_DRIVER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
