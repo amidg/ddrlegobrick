@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=GND Pin=SERVO1-1
+Removed Pin From Net: NetName=+5V_SERVO Pin=SERVO1-2
+Removed Pin From Net: NetName=SERVO1_PWM Pin=SERVO1-3
+Removed Pin From Net: NetName=GND Pin=SERVO2-1
+Removed Pin From Net: NetName=+5V_SERVO Pin=SERVO2-2
+Removed Pin From Net: NetName=SERVO2_PWM Pin=SERVO2-3
+Removed Member From Class: ClassName=CONN Member=SERVO1
+Removed Member From Class: ClassName=CONN Member=SERVO2
+Added Component: Designator=R28(RESC2013X60X40NL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA6AEB221V"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RESC2013X60X40NL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA6AEB221V"; VariantName = "[No Variations]"
+Added Component: Designator=SERVO1+2(610106249121)
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6101xx249121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Angled"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "610106249121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "610106249121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Number"; Value = "Dual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "600VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=SERVO3+4(610106249121)
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6101xx249121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Angled"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "610106249121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "610106249121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Number"; Value = "Dual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "600VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SERVO1+2-1
+Added Pin To Net: NetName=GND Pin=SERVO1+2-2
+Added Pin To Net: NetName=+5V_SERVO Pin=SERVO1+2-3
+Added Pin To Net: NetName=+5V_SERVO Pin=SERVO1+2-4
+Added Pin To Net: NetName=SERVO1_PWM Pin=SERVO1+2-5
+Added Pin To Net: NetName=SERVO2_PWM Pin=SERVO1+2-6
+Added Pin To Net: NetName=GND Pin=SERVO3+4-1
+Added Pin To Net: NetName=GND Pin=SERVO3+4-2
+Added Pin To Net: NetName=+5V_SERVO Pin=SERVO3+4-3
+Added Pin To Net: NetName=+5V_SERVO Pin=SERVO3+4-4
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=NetR28_1 Pin=U10-8
+Added Net: Name=NetR28_1
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetR29_1 Pin=U10-9
+Added Net: Name=NetR29_1
+Added Pin To Net: NetName=SERVO3_PWM Pin=R28-2
+Added Pin To Net: NetName=SERVO3_PWM Pin=SERVO3+4-5
+Added Net: Name=SERVO3_PWM
+Added Pin To Net: NetName=SERVO4_PWM Pin=R29-2
+Added Pin To Net: NetName=SERVO4_PWM Pin=SERVO3+4-6
+Added Net: Name=SERVO4_PWM
+Added Member To Class: ClassName=SERVO_DRIVER Member=Component R28 220R 5% 0805
+Added Member To Class: ClassName=SERVO_DRIVER Member=Component R29 220R 5% 0805
+Added Member To Class: ClassName=CONN Member=Component SERVO1+2 610106249121
+Added Member To Class: ClassName=CONN Member=Component SERVO3+4 610106249121
