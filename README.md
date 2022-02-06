@@ -8,6 +8,7 @@ My custom RC brick for Lego Power Functions and C+ motors. Support all current a
 
 ## Branching:
 ### Firmware (branch: master)
+- Designed in Visual Studio Code w/ PlatformIO
 - C++ firmware using Arduino-core for ESP32
 - Must be flashed as ESP32 Thing Plus
 
