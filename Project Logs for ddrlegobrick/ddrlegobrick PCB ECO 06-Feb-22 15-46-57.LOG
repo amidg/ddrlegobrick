@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=SERVO1+2-2
+Removed Pin From Net: NetName=+5V_SERVO Pin=SERVO1+2-3
+Removed Pin From Net: NetName=+5V_SERVO Pin=SERVO1+2-4
+Removed Pin From Net: NetName=SERVO1_PWM Pin=SERVO1+2-5
+Removed Pin From Net: NetName=GND Pin=SERVO3+4-1
+Removed Pin From Net: NetName=GND Pin=SERVO3+4-2
+Removed Pin From Net: NetName=+5V_SERVO Pin=SERVO3+4-3
+Removed Pin From Net: NetName=+5V_SERVO Pin=SERVO3+4-4
+Removed Member From Class: ClassName=SERVO_DRIVER Member=R28
+Removed Member From Class: ClassName=SERVO_DRIVER Member=R29
+Removed Member From Class: ClassName=CONN Member=SERVO3+4
+Change Component Footprint: Designator=SERVO1+2 Old Footprint=610106249121 New Footprint=61300611021
+Change Component Comment : Designator=SERVO1+2 Old Comment=610106249121 New Comment=61300611021
+Change Managed Component Library Link : Designator=SERVO1+2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=EA7522A6-FF00-46AA-A4F6-AB2A8F6ACABE New ItemGUID=11120447-30EF-4088-AAC6-FE8F63E0B4BF Old RevisionGUID=EE7996EF-11A8-43C9-A28A-BB9FCFA5CF88 New RevisionGUID=73C3F270-DAE9-4FFC-B587-02EF3018E3D0
+Change component parameters: Designator = "SERVO1+2" ("SERVO1+2"); Footprint = "610106249121"; UniqueID = "\RCYVEKZB" ("\RCYVEKZB")
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11021.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Angled"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "61300611021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "61300611021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Number"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Number"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_SERVO Pin=SERVO1+2-2
+Added Pin To Net: NetName=SERVO1_PWM Pin=SERVO1+2-3
+Added Pin To Net: NetName=GND Pin=SERVO1+2-4
+Added Pin To Net: NetName=+5V_SERVO Pin=SERVO1+2-5
+Added Member To Class: ClassName=CONN Member=Component MOTOR3 61300411121
+Added Member To Class: ClassName=MOTOR_DRIVER Member=Component U3 DRV8833PWR
