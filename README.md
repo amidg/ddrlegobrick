@@ -6,7 +6,11 @@ My custom RC brick for Lego Power Functions and C+ motors. Support all current a
 2. Dualshock 3/4
 3. Xbox Controller
 
-## Revisions:
+## Branching:
+### Firmware (branch: master)
+- C++ firmware using Arduino-core for ESP32
+- Must be flashed as ESP32 Thing Plus
+
 ### Revision V1 (branch: hardware)
 - ESP32-WROOM-E (16MB version required)
 - 4x DRV8833
