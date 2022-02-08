@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=MOTOR1_CHA Pin=MOTOR1-2
+Removed Pin From Net: NetName=MOTOR1_CHB Pin=MOTOR1-3
+Removed Pin From Net: NetName=GND Pin=MOTOR1-4
+Removed Pin From Net: NetName=MOTOR2_CHA Pin=MOTOR2-2
+Removed Pin From Net: NetName=MOTOR2_CHB Pin=MOTOR2-3
+Removed Pin From Net: NetName=GND Pin=MOTOR2-4
+Removed Pin From Net: NetName=MOTOR3_CHA Pin=MOTOR3-2
+Removed Pin From Net: NetName=MOTOR3_CHB Pin=MOTOR3-3
+Removed Pin From Net: NetName=GND Pin=MOTOR3-4
+Removed Pin From Net: NetName=MOTOR4_CHA Pin=MOTOR4-2
+Removed Pin From Net: NetName=MOTOR4_CHB Pin=MOTOR4-3
+Removed Pin From Net: NetName=GND Pin=MOTOR4-4
+Change Component Footprint: Designator=MOTOR1 Old Footprint=61300411121 New Footprint=PF_CONN
+Change Component Footprint: Designator=MOTOR2 Old Footprint=61300411121 New Footprint=PF_CONN
+Change Component Footprint: Designator=MOTOR3 Old Footprint=61300411121 New Footprint=PF_CONN
+Change Component Footprint: Designator=MOTOR4 Old Footprint=61300411121 New Footprint=PF_CONN
+Change Component Comment : Designator=MOTOR1 Old Comment=61300411121 New Comment=PF_CONN
+Change Component Comment : Designator=MOTOR2 Old Comment=61300411121 New Comment=PF_CONN
+Change Component Comment : Designator=MOTOR3 Old Comment=61300411121 New Comment=PF_CONN
+Change Component Comment : Designator=MOTOR4 Old Comment=61300411121 New Comment=PF_CONN
+Change Managed Component Library Link : Designator=MOTOR1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=6366F00F-2F5E-49CA-A393-A6C3EB69613C New ItemGUID= Old RevisionGUID=9D57D15A-6CA0-4DD7-B512-9BDDA0A5D642 New RevisionGUID=
+Change Managed Component Library Link : Designator=MOTOR2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=6366F00F-2F5E-49CA-A393-A6C3EB69613C New ItemGUID= Old RevisionGUID=9D57D15A-6CA0-4DD7-B512-9BDDA0A5D642 New RevisionGUID=
+Change Managed Component Library Link : Designator=MOTOR3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=6366F00F-2F5E-49CA-A393-A6C3EB69613C New ItemGUID= Old RevisionGUID=9D57D15A-6CA0-4DD7-B512-9BDDA0A5D642 New RevisionGUID=
+Change Managed Component Library Link : Designator=MOTOR4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=6366F00F-2F5E-49CA-A393-A6C3EB69613C New ItemGUID= Old RevisionGUID=9D57D15A-6CA0-4DD7-B512-9BDDA0A5D642 New RevisionGUID=
+Change component parameters: Designator = "MOTOR1" ("MOTOR1"); Footprint = "61300411121"; UniqueID = "\SJNYVSNF" ("\SJNYVSNF")
+Change component parameters: Designator = "MOTOR2" ("MOTOR2"); Footprint = "61300411121"; UniqueID = "\DXWOOLVE" ("\DXWOOLVE")
+Change component parameters: Designator = "MOTOR3" ("MOTOR3"); Footprint = "61300411121"; UniqueID = "\QOFODBLK" ("\QOFODBLK")
+Change component parameters: Designator = "MOTOR4" ("MOTOR4"); Footprint = "61300411121"; UniqueID = "\FZKWZNYP" ("\FZKWZNYP")
+Added Pin To Net: NetName=MOTOR1_CHA Pin=MOTOR1-C1
+Added Pin To Net: NetName=MOTOR1_CHB Pin=MOTOR1-C2
+Added Pin To Net: NetName=GND Pin=MOTOR1-GND
+Added Pin To Net: NetName=BAT_PACK_12V6 Pin=MOTOR1-VCC
+Added Pin To Net: NetName=MOTOR2_CHA Pin=MOTOR2-C1
+Added Pin To Net: NetName=MOTOR2_CHB Pin=MOTOR2-C2
+Added Pin To Net: NetName=GND Pin=MOTOR2-GND
+Added Pin To Net: NetName=BAT_PACK_12V6 Pin=MOTOR2-VCC
+Added Pin To Net: NetName=MOTOR3_CHA Pin=MOTOR3-C1
+Added Pin To Net: NetName=MOTOR3_CHB Pin=MOTOR3-C2
+Added Pin To Net: NetName=GND Pin=MOTOR3-GND
+Added Pin To Net: NetName=BAT_PACK_12V6 Pin=MOTOR3-VCC
+Added Pin To Net: NetName=MOTOR4_CHA Pin=MOTOR4-C1
+Added Pin To Net: NetName=MOTOR4_CHB Pin=MOTOR4-C2
+Added Pin To Net: NetName=GND Pin=MOTOR4-GND
+Added Pin To Net: NetName=BAT_PACK_12V6 Pin=MOTOR4-VCC
