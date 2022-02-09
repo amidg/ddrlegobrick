@@ -98,6 +98,23 @@ GenerateClassCluster=0
 DocumentUniqueId=GFCQBURE
 
 [Document4]
+DocumentPath=SERVO_DRIVER.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QSJXCEWC
+
+[Document5]
 DocumentPath=CONN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -114,7 +131,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PTTQRTOE
 
-[Document5]
+[Document6]
 DocumentPath=ddrlegobrick.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DMCONENR
 
-[Document6]
+[Document7]
 DocumentPath=ddrlegobrick.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IQOPIRQH
 
-[Document7]
+[Document8]
 DocumentPath=CHARGING.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ILXRFBQN
 
-[Document8]
+[Document9]
 DocumentPath=ddrlegobrick.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
