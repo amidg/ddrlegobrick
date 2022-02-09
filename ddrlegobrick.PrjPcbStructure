@@ -2,5 +2,4 @@ Record=TopLevelDocument|FileName=CHARGING.SchDoc|SheetNumber=
 Record=NoMainPathDocument|SourceDocument=CHARGING.SchDoc|FileName=CONN.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=CHARGING.SchDoc|FileName=ESP32.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=CHARGING.SchDoc|FileName=MOTOR_DRIVER.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=CHARGING.SchDoc|FileName=SERVO_DRIVER.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=CHARGING.SchDoc|FileName=USB-ESP32.SchDoc|SheetNumber= 

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=+5V Pin=C2-1
+Added Pin To Net: NetName=+5V Pin=C3-1
+Added Pin To Net: NetName=+5V Pin=F1-2
+Added Pin To Net: NetName=+5V Pin=U1-8
+Added Member To Class: ClassName=USB-ESP32 Member=Component U1 CP2104-F03-GM

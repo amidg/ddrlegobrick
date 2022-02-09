@@ -1,0 +1,6 @@
+Added Component: Designator=OLED(OLED)
+Added Pin To Net: NetName=+5V Pin=OLED-5VCC
+Added Pin To Net: NetName=GND Pin=OLED-GND
+Added Pin To Net: NetName=ESP32-I2C-SCL Pin=OLED-SCL
+Added Pin To Net: NetName=ESP32-I2C-SDA Pin=OLED-SDA
+Added Member To Class: ClassName=CONN Member=Component OLED
