@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=+5V_SERVO Pin=SERVO1+2-2
+Removed Pin From Net: NetName=SERVO1_PWM Pin=SERVO1+2-3
+Removed Pin From Net: NetName=GND Pin=SERVO1+2-4
+Removed Pin From Net: NetName=+5V_SERVO Pin=SERVO1+2-5
+Removed Pin From Net: NetName=SERVO2_PWM Pin=SERVO1+2-6
+Change Component Footprint: Designator=SERVO1+2 Old Footprint=61300611021 New Footprint=61300621021
+Change Component Comment : Designator=SERVO1+2 Old Comment=61300611021 New Comment=61300621021
+Change Managed Component Library Link : Designator=SERVO1+2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=11120447-30EF-4088-AAC6-FE8F63E0B4BF New ItemGUID=37DC13B9-F825-4B24-A203-658EC9C37C0B Old RevisionGUID=73C3F270-DAE9-4FFC-B587-02EF3018E3D0 New RevisionGUID=541D190D-C9C2-4FF9-9DDE-EFAA7CA424D8
+Change component parameters: Designator = "SERVO1+2" ("SERVO1+2"); Footprint = "61300611021"; UniqueID = "\PUBEUSJQ" ("\PUBEUSJQ")
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6130xx21021.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Angled"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "61300621021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "61300621021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Number"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Number"; Value = "Dual"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SERVO1+2-2
+Added Pin To Net: NetName=+5V_SERVO Pin=SERVO1+2-3
+Added Pin To Net: NetName=+5V_SERVO Pin=SERVO1+2-4
+Added Pin To Net: NetName=SERVO2_PWM Pin=SERVO1+2-5
+Added Pin To Net: NetName=SERVO1_PWM Pin=SERVO1+2-6
+Added Member To Class: ClassName=USB-ESP32 Member=Component C2 0.1uF 50V 0805

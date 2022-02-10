@@ -81,6 +81,23 @@ GenerateClassCluster=0
 DocumentUniqueId=KTDNYEFV
 
 [Document3]
+DocumentPath=GPIO_EXT.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OGXUVUIW
+
+[Document4]
 DocumentPath=MOTOR_DRIVER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -96,23 +113,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFCQBURE
-
-[Document4]
-DocumentPath=SERVO_DRIVER.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QSJXCEWC
 
 [Document5]
 DocumentPath=CONN.SchDoc
