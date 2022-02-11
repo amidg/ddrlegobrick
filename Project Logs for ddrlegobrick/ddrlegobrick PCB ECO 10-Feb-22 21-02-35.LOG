@@ -1,0 +1,34 @@
+Added Component: Designator=OLED(FP-TSM-104-01-L-SV-P-TR-MFG)
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Conn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://suddendocs.samtec.com/prints/tsm-1xx-xx-xxx-sv-xx-xxx-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold,Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5.4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN HEADER SMD 4POS 2.54MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Url"; Value = "http://suddendocs.samtec.com/prints/tsm-1xx-xx-xx-sv-xx-xxx-xx-footprint.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.403inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TSM-104-01-L-SV-P-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/tsm-104-01-l-sv-p-tr-samtec-6805355"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSM-104-01-L-SV-P-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standoff Height"; Value = "0.04inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "475V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=OLED-1
+Added Pin To Net: NetName=+5V Pin=OLED-2
+Added Pin To Net: NetName=ESP32-I2C-SCL Pin=OLED-3
+Added Pin To Net: NetName=ESP32-I2C-SDA Pin=OLED-4
+Added Member To Class: ClassName=CONN Member=Component OLED TSM-104-01-L-SV-P-TR

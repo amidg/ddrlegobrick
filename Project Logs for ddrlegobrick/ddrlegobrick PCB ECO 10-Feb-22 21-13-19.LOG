@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=OLED-1
+Removed Pin From Net: NetName=+5V Pin=OLED-2
+Removed Pin From Net: NetName=ESP32-I2C-SCL Pin=OLED-3
+Removed Pin From Net: NetName=ESP32-I2C-SDA Pin=OLED-4
+Change Component Footprint: Designator=OLED Old Footprint=FP-TSM-104-01-L-SV-P-TR-MFG New Footprint=OLED
+Change Component Comment : Designator=OLED Old Comment=TSM-104-01-L-SV-P-TR New Comment=OLED
+Change Managed Component Library Link : Designator=OLED Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=B19D6F7A-5C86-41F7-A082-A48B1AEB0249 New ItemGUID= Old RevisionGUID=669FDC55-E708-44D2-8767-E3964693A3EC New RevisionGUID=
+Change component parameters: Designator = "OLED" ("OLED"); Footprint = "FP-TSM-104-01-L-SV-P-TR-MFG"; UniqueID = "\FTJRVJON" ("\FTJRVJON")
+Added Pin To Net: NetName=+5V Pin=OLED-5VCC
+Added Pin To Net: NetName=GND Pin=OLED-GND
+Added Pin To Net: NetName=ESP32-I2C-SCL Pin=OLED-SCL
+Added Pin To Net: NetName=ESP32-I2C-SDA Pin=OLED-SDA
