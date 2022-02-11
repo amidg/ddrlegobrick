@@ -1,0 +1,4 @@
+Change Physical Footprint: Designator=MOTOR1 Old Footprint=PF_CONN New Footprint=PF_CONN
+Change Physical Footprint: Designator=MOTOR2 Old Footprint=PF_CONN New Footprint=PF_CONN
+Change Physical Footprint: Designator=MOTOR3 Old Footprint=PF_CONN New Footprint=PF_CONN
+Change Physical Footprint: Designator=MOTOR4 Old Footprint=PF_CONN New Footprint=PF_CONN
