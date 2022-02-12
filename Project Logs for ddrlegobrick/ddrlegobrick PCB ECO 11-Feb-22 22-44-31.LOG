@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=SERVO-2
+Removed Pin From Net: NetName=+5V_SERVO Pin=SERVO-3
+Removed Pin From Net: NetName=+5V_SERVO Pin=SERVO-4
+Removed Pin From Net: NetName=SERVO1_PWM Pin=SERVO-5
+Change Component Footprint: Designator=SERVO Old Footprint=61030621121 New Footprint=JST-XH-3P
+Change Component Comment : Designator=SERVO Old Comment=61030621121 New Comment=JST-XH-3p
+Change Managed Component Library Link : Designator=SERVO Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=6C347AE6-1CED-4E15-8530-F29C7AA7F5BE New ItemGUID= Old RevisionGUID=5567AA71-52D0-49C5-9EA0-11D3A3F7B3E8 New RevisionGUID=
+Change component parameters: Designator = "SERVO" ("SERVO"); Footprint = "61030621121"; UniqueID = "\CYTZHMHN" ("\CYTZHMHN")
+Add Pin To Net: Unknown Pin: Pin BAT_BALANCE-SHELL
+Added Pin To Net: NetName=+5V_SERVO Pin=SERVO-2
+Added Pin To Net: NetName=SERVO1_PWM Pin=SERVO-3
+Added Pin To Net: NetName=GND Pin=SERVO-SHELL
+Added Pin To Net: NetName=GND Pin=SERVO-SHELL

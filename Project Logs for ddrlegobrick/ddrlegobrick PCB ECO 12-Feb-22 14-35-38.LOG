@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=+5V Pin=R28-1
+Removed Pin From Net: NetName=+5V Pin=R29-1
+Removed Pin From Net: NetName=+5V Pin=R30-1
+Removed Pin From Net: NetName=GND Pin=U14-8
+Removed Pin From Net: NetName=ESP32-I2C-SCL Pin=U14-14
+Removed Pin From Net: NetName=ESP32-I2C-SDA Pin=U14-15
+Removed Pin From Net: NetName=+5V Pin=U14-16
+Removed Member From Class: ClassName=GPIO_EXT Member=R28
+Removed Member From Class: ClassName=GPIO_EXT Member=R29
+Removed Member From Class: ClassName=GPIO_EXT Member=R30
+Change Component Footprint: Designator=U14 Old Footprint=FP-SOT162-1-MFG New Footprint=DGK0008A_M
+Change Component Comment : Designator=U14 Old Comment=PCF8574AT/3,518 New Comment=PCA9536DGKR
+Change Managed Component Library Link : Designator=U14 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=35BF4889-9946-4FFA-8F05-9B3D91056E65 New ItemGUID=CDC27792-DF57-449F-8B08-271982E7E78E Old RevisionGUID=6D6269B8-1C06-4273-9070-B3DB01C3D7F3 New RevisionGUID=FBE0CA4A-F557-4DFB-98EA-D10CC89342BD
+Change component parameters: Designator = "U14" ("U14"); Footprint = "FP-SOT162-1-MFG"; UniqueID = "\HHDGGVPI" ("\HHDGGVPI")
+Change component parameters (AddParameter): Name = "5V Tolerant I/O"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "# of I/Os"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel Width"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MO-187-AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=PCA9536&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/litv/pdf/msoi002j"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Configuration Registers"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SCPS125F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Enable Pin"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EXP Pin"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fSCLK(Max)(MHz)"; Value = "400"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Function"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "I2C Address"; Value = "1000 001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Interrupt Output"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Low Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Master Side I2C Bus Capacitance Supported(pF)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Frequency(kHz)"; Value = "400"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Outputs"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "On-Chip Power-on-Reset"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Open Drain I/O Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "8-Pin Thin Small Outline Package 3 x 3 mm Body ,0.65 mm Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "DGK0008A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revE, May-2006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "PCA9536DGKR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Push-Pull I/O Type"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reset Input"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Simultaneously Active Channels"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Slave Side I2C Bus Capacitance Supported(pF)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubFamily"; Value = "I2C IO Expander"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology Family"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "tpd max(ns)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vcc range(V)"; Value = "2.3 to 5.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCC(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCC(Min)(V)"; Value = "2.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Nodes(V)"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U14-4
+Added Pin To Net: NetName=ESP32-I2C-SCL Pin=U14-6
+Added Pin To Net: NetName=ESP32-I2C-SDA Pin=U14-7
+Added Pin To Net: NetName=+5V Pin=U14-8
+Change Net Name : Old Net Name=addr0 New Net Name=EN_CRG_BAT1
+Change Net Name : Old Net Name=addr1 New Net Name=EN_CRG_BAT2
+Change Net Name : Old Net Name=addr2 New Net Name=EN_CRG_BAT3

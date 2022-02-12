@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=BAT_PACK_12V6 Pin=BAT_BALANCE-1
+Removed Pin From Net: NetName=BAT_PACK_8V4 Pin=BAT_BALANCE-2
+Removed Pin From Net: NetName=BAT_PACK_4V2 Pin=BAT_BALANCE-3
+Removed Pin From Net: NetName=GND Pin=BAT_BALANCE-4
+Removed Pin From Net: NetName=BAT_PACK_12V6 Pin=BAT_PWR-1
+Removed Pin From Net: NetName=GND Pin=BAT_PWR-2
+Removed Member From Class: ClassName=CHARGING Member=BAT_BALANCE
+Removed Member From Class: ClassName=CHARGING Member=BAT_PWR
+Removed Member From Class: ClassName=CHARGING Member=J?
+Added Component: Designator=BAT_CONN(JST-XH-6p)
+Added Pin To Net: NetName=BAT_PACK_12V6 Pin=BAT_CONN-1
+Added Pin To Net: NetName=GND Pin=BAT_CONN-2
+Added Pin To Net: NetName=BAT_PACK_12V6 Pin=BAT_CONN-3
+Added Pin To Net: NetName=BAT_PACK_8V4 Pin=BAT_CONN-4
+Added Pin To Net: NetName=BAT_PACK_4V2 Pin=BAT_CONN-5
+Added Pin To Net: NetName=GND Pin=BAT_CONN-6
+Added Pin To Net: NetName=GND Pin=BAT_CONN-SHELL
+Added Pin To Net: NetName=GND Pin=BAT_CONN-SHELL
+Added Member To Class: ClassName=CHARGING Member=Component BAT_CONN JST-XH-6p

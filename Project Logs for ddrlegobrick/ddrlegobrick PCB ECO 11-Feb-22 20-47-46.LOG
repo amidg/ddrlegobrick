@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+5V Pin=OLED-5VCC
+Removed Pin From Net: NetName=GND Pin=OLED-GND
+Removed Pin From Net: NetName=ESP32-I2C-SCL Pin=OLED-SCL
+Removed Pin From Net: NetName=ESP32-I2C-SDA Pin=OLED-SDA
+Removed Member From Class: ClassName=CONN Member=OLED

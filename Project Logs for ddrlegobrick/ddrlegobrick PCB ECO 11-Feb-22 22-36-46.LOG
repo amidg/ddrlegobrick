@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=+5V_SERVO Pin=SERVO-2
+Removed Pin From Net: NetName=SERVO1_PWM Pin=SERVO-3
+Removed Pin From Net: NetName=GND Pin=SERVO-4
+Removed Pin From Net: NetName=+5V_SERVO Pin=SERVO-5
+Removed Pin From Net: NetName=GND Pin=SERVO-SHELL
+Removed Pin From Net: NetName=GND Pin=SERVO-SHELL
+Change Component Footprint: Designator=SERVO Old Footprint=JST-XH-6p New Footprint=61030621121
+Change Component Comment : Designator=SERVO Old Comment=JST-XH-6p New Comment=61030621121
+Change Managed Component Library Link : Designator=SERVO Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=6C347AE6-1CED-4E15-8530-F29C7AA7F5BE Old RevisionGUID= New RevisionGUID=5567AA71-52D0-49C5-9EA0-11D3A3F7B3E8
+Change component parameters: Designator = "SERVO" ("SERVO"); Footprint = "JST-XH-6p"; UniqueID = "\LPMBBIWG" ("\LPMBBIWG")
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6103xx21121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40to125degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "61030621121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "61030621121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Number"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Number"; Value = "Dual"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BAT_BALANCE-SHELL
+Added Pin To Net: NetName=GND Pin=SERVO-2
+Added Pin To Net: NetName=+5V_SERVO Pin=SERVO-3
+Added Pin To Net: NetName=+5V_SERVO Pin=SERVO-4
+Added Pin To Net: NetName=SERVO1_PWM Pin=SERVO-5

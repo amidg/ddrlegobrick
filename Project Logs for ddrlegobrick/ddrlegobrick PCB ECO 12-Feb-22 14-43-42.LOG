@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=BAT_PACK_12V6 Pin=BAT_BALANCE-1
+Removed Pin From Net: NetName=BAT_PACK_8V4 Pin=BAT_BALANCE-2
+Removed Pin From Net: NetName=BAT_PACK_4V2 Pin=BAT_BALANCE-3
+Removed Pin From Net: NetName=GND Pin=BAT_BALANCE-4
+Removed Pin From Net: NetName=GND Pin=BAT_BALANCE-SHELL
+Removed Pin From Net: NetName=GND Pin=BAT_BALANCE-SHELL
+Removed Pin From Net: NetName=BAT_PACK_12V6 Pin=BAT_PWR-1
+Removed Pin From Net: NetName=GND Pin=BAT_PWR-2
+Removed Pin From Net: NetName=BAT_PACK_4V2 Pin=U8-2
+Removed Member From Class: ClassName=CHARGING Member=BAT_BALANCE
+Removed Member From Class: ClassName=CHARGING Member=BAT_PWR
+Added Component: Designator=BAT1(JST-B2B-PH-SM4-TB-2_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-26894756?src=ciiva&sig=90099765"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Dec-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Component: Designator=BAT2(JST-B2B-PH-SM4-TB-2_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-26894756?src=ciiva&sig=90099765"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Dec-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Component: Designator=BAT3(JST-B2B-PH-SM4-TB-2_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-26894756?src=ciiva&sig=90099765"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Dec-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT_PACK_4V2 Pin=BAT1-1
+Added Pin To Net: NetName=GND Pin=BAT1-2
+Added Pin To Net: NetName=GND Pin=BAT1-MP1
+Added Pin To Net: NetName=GND Pin=BAT1-MP2
+Added Pin To Net: NetName=BAT_PACK_8V4 Pin=BAT2-1
+Added Pin To Net: NetName=GND Pin=BAT2-MP1
+Added Pin To Net: NetName=GND Pin=BAT2-MP2
+Added Pin To Net: NetName=BAT_PACK_12V6 Pin=BAT3-1
+Added Pin To Net: NetName=BAT_PACK_8V4 Pin=BAT3-2
+Added Pin To Net: NetName=GND Pin=BAT3-MP1
+Added Pin To Net: NetName=GND Pin=BAT3-MP2
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT2-2
+Added Pin To Net: NetName=NetBAT2_2 Pin=U8-2
+Added Net: Name=NetBAT2_2
+Added Member To Class: ClassName=CHARGING Member=Component BAT1 B2B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=CHARGING Member=Component BAT2 B2B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=CHARGING Member=Component BAT3 B2B-PH-SM4-TB(LF)(SN)

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=BAT_BALANCE-1
+Removed Pin From Net: NetName=BAT_PACK_4V2 Pin=BAT_BALANCE-2
+Removed Pin From Net: NetName=BAT_PACK_8V4 Pin=BAT_BALANCE-3
+Removed Pin From Net: NetName=BAT_PACK_12V6 Pin=BAT_BALANCE-4
+Added Pin To Net: NetName=BAT_PACK_12V6 Pin=BAT_BALANCE-1
+Added Pin To Net: NetName=BAT_PACK_8V4 Pin=BAT_BALANCE-2
+Added Pin To Net: NetName=BAT_PACK_4V2 Pin=BAT_BALANCE-3
+Added Pin To Net: NetName=GND Pin=BAT_BALANCE-4
+Add Pin To Net: Unknown Pin: Pin BAT_BALANCE-SHELL

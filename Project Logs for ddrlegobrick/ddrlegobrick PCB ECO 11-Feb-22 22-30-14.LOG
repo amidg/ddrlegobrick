@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=SERVO1+2-1
+Removed Pin From Net: NetName=GND Pin=SERVO1+2-2
+Removed Pin From Net: NetName=+5V_SERVO Pin=SERVO1+2-3
+Removed Pin From Net: NetName=+5V_SERVO Pin=SERVO1+2-4
+Removed Pin From Net: NetName=SERVO2_PWM Pin=SERVO1+2-5
+Removed Pin From Net: NetName=SERVO1_PWM Pin=SERVO1+2-6
+Removed Member From Class: ClassName=CONN Member=SERVO1+2
+Added Component: Designator=SERVO(JST-XH-6p)
+Add Pin To Net: Unknown Pin: Pin BAT_BALANCE-SHELL
+Added Pin To Net: NetName=GND Pin=SERVO-1
+Added Pin To Net: NetName=+5V_SERVO Pin=SERVO-2
+Added Pin To Net: NetName=SERVO1_PWM Pin=SERVO-3
+Added Pin To Net: NetName=GND Pin=SERVO-4
+Added Pin To Net: NetName=+5V_SERVO Pin=SERVO-5
+Added Pin To Net: NetName=SERVO2_PWM Pin=SERVO-6
+Added Pin To Net: NetName=GND Pin=SERVO-SHELL
+Added Pin To Net: NetName=GND Pin=SERVO-SHELL
+Added Member To Class: ClassName=CONN Member=Component SERVO JST-XH-6p
