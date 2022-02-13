@@ -1,0 +1,15 @@
+Added Component: Designator=U(DRV8844)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=494013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=494013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=494013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DRV8844PWP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "HTSSOP-28 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DRV8844PWP/Texas%20Instruments/view-part/494013/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=494013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change Class Name : Old Net Name=MOTOR_DRIVER New Net Name=DRV8833
+Added Member To Class: ClassName=CHARGING Member=Component C? 4.7uF 16V 0805
+Added Member To Class: ClassName=DRV8833 Member=Component U DRV8844PWP
