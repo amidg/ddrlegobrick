@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=3V3 Old Footprint=1206_A New Footprint=0805_A
+Change Component Footprint: Designator=5V Old Footprint=1206_A New Footprint=0805_A
+Change Component Comment : Designator=3V3 Old Comment=150120GS75000 New Comment=150080GS75000
+Change Component Comment : Designator=5V Old Comment=150120GS75000 New Comment=150080GS75000
+Change Managed Component Library Link : Designator=3V3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BFAEAF46-64D6-4F88-A2DB-1F3E5014C5FB New ItemGUID=7CA29E68-737E-4B72-8298-495A0034E04A Old RevisionGUID=F8D53525-D37B-4A79-9547-6691E9AEC5D9 New RevisionGUID=176256F5-FDF0-497E-BE5F-A62C8B2BC32C
+Change Managed Component Library Link : Designator=5V Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BFAEAF46-64D6-4F88-A2DB-1F3E5014C5FB New ItemGUID=7CA29E68-737E-4B72-8298-495A0034E04A Old RevisionGUID=F8D53525-D37B-4A79-9547-6691E9AEC5D9 New RevisionGUID=176256F5-FDF0-497E-BE5F-A62C8B2BC32C
+Change component parameters: Designator = "3V3" ("3V3"); Footprint = "1206_A"; UniqueID = "\UTMCBISE" ("\UTMCBISE")
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.com/led/datasheet/150080GS75000.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805_A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "150080GS75000"; VariantName = "[No Variations]"
+Change component parameters: Designator = "5V" ("5V"); Footprint = "1206_A"; UniqueID = "\CLAZYDXO" ("\CLAZYDXO")
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.com/led/datasheet/150080GS75000.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805_A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "150080GS75000"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=CHARGING Member=Component C? 4.7uF 16V 0805
