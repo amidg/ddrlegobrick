@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=23008 Old Footprint=SOIC-SO18_N New Footprint=QFN-ML20_M
+Change Component Comment : Designator=23008 Old Comment=MCP23008-E/SO New Comment=MCP23008-E/ML
+Change Managed Component Library Link : Designator=23008 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=37C08E7A-094B-4B53-AC37-93D6B0B32E2D New ItemGUID=979ADC5E-D5C8-461E-B016-3CE1C84A9980 Old RevisionGUID=1A205711-5D94-412D-88CE-395C329BF39A New RevisionGUID=C2EA7B6F-6F4E-4F8D-A153-72B799BE83C7
+Change component parameters: Designator = "23008" ("23008"); Footprint = "SOIC-SO18_N"; UniqueID = "\GEWMEIMR" ("\GEWMEIMR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.microchip.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21919e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "revE, Aug-2007"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "20-Lead Plastic Quad Flat, No Lead Package (ML) - 4x4x0.9 mm Body [QFN]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "QFN-ML20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RevisionNote"; Value = "URLs added."; VariantName = "[No Variations]"
+Added Member To Class: ClassName=CHARGING Member=Component C? 4.7uF 16V 0805

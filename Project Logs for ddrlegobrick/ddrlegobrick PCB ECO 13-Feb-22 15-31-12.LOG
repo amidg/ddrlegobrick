@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U14 Old Footprint=QFN-ML20_M New Footprint=MCP23008
+Change Component Comment : Designator=U14 Old Comment=MCP23008-E/ML New Comment=MCP23008T-E/ML
+Change Managed Component Library Link : Designator=U14 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=979ADC5E-D5C8-461E-B016-3CE1C84A9980 New ItemGUID= Old RevisionGUID=C2EA7B6F-6F4E-4F8D-A153-72B799BE83C7 New RevisionGUID=
+Added Member To Class: ClassName=CHARGING Member=Component C? 4.7uF 16V 0805

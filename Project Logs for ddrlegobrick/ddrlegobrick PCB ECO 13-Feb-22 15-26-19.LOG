@@ -1,0 +1,366 @@
+Removed Pin From Net: NetName=GND Pin=BAT1-2
+Removed Pin From Net: NetName=GND Pin=BAT1-MP1
+Removed Pin From Net: NetName=GND Pin=BAT1-MP2
+Removed Pin From Net: NetName=GND Pin=BAT2-MP1
+Removed Pin From Net: NetName=GND Pin=BAT2-MP2
+Removed Pin From Net: NetName=BAT_PACK_12V6 Pin=BAT3-1
+Removed Pin From Net: NetName=GND Pin=BAT3-MP1
+Removed Pin From Net: NetName=GND Pin=BAT3-MP2
+Removed Pin From Net: NetName=+5V Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=BAT_PACK_12V6 Pin=C29-1
+Removed Pin From Net: NetName=MOTOR_DRV_ENABLE Pin=ESP32-8
+Removed Pin From Net: NetName=+5V Pin=R31-1
+Removed Pin From Net: NetName=ESP32-I2C-SCL Pin=R31-2
+Removed Pin From Net: NetName=+5V Pin=R32-1
+Removed Pin From Net: NetName=ESP32-I2C-SDA Pin=R32-2
+Removed Pin From Net: NetName=BAT1_STDBY* Pin=R36-1
+Removed Pin From Net: NetName=+5V Pin=R36-2
+Removed Pin From Net: NetName=BAT2_STDBY* Pin=R37-1
+Removed Pin From Net: NetName=+5V Pin=R37-2
+Removed Pin From Net: NetName=BAT3_STDBY* Pin=R38-1
+Removed Pin From Net: NetName=+5V Pin=R38-2
+Removed Pin From Net: NetName=BAT1_CHRG* Pin=U14-1
+Removed Pin From Net: NetName=BAT2_CHRG* Pin=U14-2
+Removed Pin From Net: NetName=BAT3_CHRG* Pin=U14-3
+Removed Pin From Net: NetName=GND Pin=U14-4
+Removed Pin From Net: NetName=ESP32-I2C-SCL Pin=U14-6
+Removed Pin From Net: NetName=ESP32-I2C-SDA Pin=U14-7
+Removed Pin From Net: NetName=+5V Pin=U14-8
+Removed Pin From Net: NetName=BAT1_STDBY* Pin=U15-1
+Removed Pin From Net: NetName=GND Pin=U15-2
+Removed Pin From Net: NetName=BAT2_STDBY* Pin=U15-3
+Removed Pin From Net: NetName=+5V Pin=U15-5
+Removed Pin From Net: NetName=BAT3_STDBY* Pin=U15-6
+Removed Member From Class: ClassName=GPIO_EXT Member=23008
+Removed Member From Class: ClassName=GPIO_EXT Member=C27
+Removed Member From Class: ClassName=CHARGING Member=C29
+Removed Member From Class: ClassName=GPIO_EXT Member=R31
+Removed Member From Class: ClassName=GPIO_EXT Member=R32
+Removed Member From Class: ClassName=GPIO_EXT Member=R36
+Removed Member From Class: ClassName=GPIO_EXT Member=R37
+Removed Member From Class: ClassName=GPIO_EXT Member=R38
+Removed Member From Class: ClassName=GPIO_EXT Member=U15
+Change Component Footprint: Designator=U14 Old Footprint=DGK0008A_M New Footprint=QFN-ML20_M
+Change Component Footprint: Designator=U15 Old Footprint=FP-DCK0006A-MFG New Footprint=DW01A
+Change Component Footprint: Designator=R31 Old Footprint=YAGO-RC0805_M New Footprint=RESC2013X60X35ML10T20
+Change Component Comment : Designator=R31 Old Comment=4k7 1% 0805 New Comment=0R 1% 0805
+Change Component Comment : Designator=U14 Old Comment=PCA9536DGKR New Comment=MCP23008-E/ML
+Change Component Comment : Designator=U15 Old Comment=SN74LVC1G10DCKR New Comment=DW01A
+Change Managed Component Library Link : Designator=R31 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F59490CC-30FA-41FC-A563-68020029A258 New ItemGUID=4751AF0F-8409-4D95-BAA8-3305B8560E55 Old RevisionGUID=E74BA712-4982-48BB-AC89-7D2A965ECDCB New RevisionGUID=3D16756C-5944-4C2C-BE8D-13A414C77E61
+Change Managed Component Library Link : Designator=U14 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CDC27792-DF57-449F-8B08-271982E7E78E New ItemGUID=979ADC5E-D5C8-461E-B016-3CE1C84A9980 Old RevisionGUID=FBE0CA4A-F557-4DFB-98EA-D10CC89342BD New RevisionGUID=C2EA7B6F-6F4E-4F8D-A153-72B799BE83C7
+Change Managed Component Library Link : Designator=U15 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=0FD72038-DFCE-48CC-B532-C82038C974B9 New ItemGUID= Old RevisionGUID=83D78C11-13A3-4489-B48A-6F23072169F5 New RevisionGUID=
+Change component parameters: Designator = "R31" ("R31"); Footprint = "YAGO-RC0805_M"; UniqueID = "\SHMPXUED" ("\SHMPXUED")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_5.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 5, 10/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/degreesC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U14" ("U14"); Footprint = "DGK0008A_M"; UniqueID = "\HMKDYQOJ" ("\HMKDYQOJ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.microchip.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21919e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "revE, Aug-2007"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "20-Lead Plastic Quad Flat, No Lead Package (ML) - 4x4x0.9 mm Body [QFN]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "QFN-ML20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RevisionNote"; Value = "URLs added."; VariantName = "[No Variations]"
+Change component parameters: Designator = "U15" ("U15"); Footprint = "FP-DCK0006A-MFG"; UniqueID = "\SCXTXXIX" ("\SCXTXXIX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "DW01A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DW01A/Fortune%20Semiconductor/view-part/4388554/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DRV_I2C(RESC2013X60X35ML10T20)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 5, 10/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/degreesC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=DRV_MCU(RESC2013X60X35ML10T20)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 5, 10/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/degreesC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(FS8205A)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205/Fortune%20Semiconductor/view-part/3216395/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FS8205"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205/Fortune%20Semiconductor/view-part/3216395/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q4(FS8205A)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205/Fortune%20Semiconductor/view-part/3216395/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FS8205"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205/Fortune%20Semiconductor/view-part/3216395/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q5(FS8205A)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205/Fortune%20Semiconductor/view-part/3216395/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FS8205"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205/Fortune%20Semiconductor/view-part/3216395/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=RA1(BOUR-CAY16-J4_V)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jan-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.063 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Surface Mount Device, Body 1.6 x 3.2 mm, Pitch 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CAY16-J4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "220 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "7.1E-05 oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.031 inch"; VariantName = "[No Variations]"
+Added Component: Designator=RA2(BOUR-CAY16-J4_V)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jan-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.063 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Surface Mount Device, Body 1.6 x 3.2 mm, Pitch 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CAY16-J4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "220 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "7.1E-05 oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.031 inch"; VariantName = "[No Variations]"
+Added Component: Designator=RA3(BOUR-CAY16-J4_V)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jan-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.063 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Surface Mount Device, Body 1.6 x 3.2 mm, Pitch 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CAY16-J4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "220 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "7.1E-05 oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.031 inch"; VariantName = "[No Variations]"
+Added Component: Designator=U16(DW01A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DW01A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DW01A/Fortune%20Semiconductor/view-part/4388554/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U17(DW01A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DW01A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DW01A/Fortune%20Semiconductor/view-part/4388554/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MOTOR_DRV_ENABLE Pin=DRV_I2C-2
+Added Pin To Net: NetName=MOTOR_DRV_ENABLE Pin=DRV_MCU-2
+Added Pin To Net: NetName=NetC2_1 Pin=R31-2
+Added Pin To Net: NetName=ESP32-I2C-SCL Pin=RA1-1
+Added Pin To Net: NetName=ESP32-I2C-SDA Pin=RA1-2
+Added Pin To Net: NetName=BAT1_CHRG* Pin=RA1-3
+Added Pin To Net: NetName=BAT2_CHRG* Pin=RA1-4
+Added Pin To Net: NetName=+5V Pin=RA1-5
+Added Pin To Net: NetName=+5V Pin=RA1-6
+Added Pin To Net: NetName=+5V Pin=RA1-7
+Added Pin To Net: NetName=+5V Pin=RA1-8
+Added Pin To Net: NetName=BAT3_CHRG* Pin=RA2-1
+Added Pin To Net: NetName=BAT1_STDBY* Pin=RA2-2
+Added Pin To Net: NetName=BAT2_STDBY* Pin=RA2-3
+Added Pin To Net: NetName=BAT3_STDBY* Pin=RA2-4
+Added Pin To Net: NetName=+5V Pin=RA2-5
+Added Pin To Net: NetName=+5V Pin=RA2-6
+Added Pin To Net: NetName=+5V Pin=RA2-7
+Added Pin To Net: NetName=+5V Pin=RA2-8
+Added Pin To Net: NetName=GND Pin=RA3-6
+Added Pin To Net: NetName=GND Pin=RA3-7
+Added Pin To Net: NetName=GND Pin=RA3-8
+Added Pin To Net: NetName=+5V Pin=U14-4
+Added Pin To Net: NetName=BAT1_CHRG* Pin=U14-9
+Added Pin To Net: NetName=BAT2_CHRG* Pin=U14-10
+Added Pin To Net: NetName=BAT3_CHRG* Pin=U14-11
+Added Pin To Net: NetName=BAT1_STDBY* Pin=U14-12
+Added Pin To Net: NetName=BAT2_STDBY* Pin=U14-13
+Added Pin To Net: NetName=BAT3_STDBY* Pin=U14-14
+Added Pin To Net: NetName=GND Pin=U14-17
+Added Pin To Net: NetName=+5V Pin=U14-18
+Added Pin To Net: NetName=ESP32-I2C-SCL Pin=U14-19
+Added Pin To Net: NetName=ESP32-I2C-SDA Pin=U14-20
+Added Pin To Net: NetName=GND Pin=U14-21
+Added Pin To Net: NetName=ADDR0 Pin=RA3-1
+Added Pin To Net: NetName=ADDR0 Pin=U14-3
+Added Net: Name=ADDR0
+Added Pin To Net: NetName=ADDR1 Pin=RA3-2
+Added Pin To Net: NetName=ADDR1 Pin=U14-2
+Added Net: Name=ADDR1
+Added Pin To Net: NetName=ADDR2 Pin=RA3-3
+Added Pin To Net: NetName=ADDR2 Pin=U14-1
+Added Net: Name=ADDR2
+Added Pin To Net: NetName=MOTOR_DRV_EN_I2C Pin=DRV_I2C-1
+Added Pin To Net: NetName=MOTOR_DRV_EN_I2C Pin=U14-16
+Added Net: Name=MOTOR_DRV_EN_I2C
+Added Pin To Net: NetName=MOTOR_DRV_EN_MCU Pin=DRV_MCU-1
+Added Pin To Net: NetName=MOTOR_DRV_EN_MCU Pin=ESP32-8
+Added Net: Name=MOTOR_DRV_EN_MCU
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-5
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-5
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-5
+Added Net: Name=NetQ5_2
+Added Pin To Net: NetName=USB_PWR_DET Pin=R31-1
+Added Pin To Net: NetName=USB_PWR_DET Pin=U14-15
+Added Net: Name=USB_PWR_DET
+Added Member To Class: ClassName=CHARGING Member=Component C? 4.7uF 16V 0805
+Added Member To Class: ClassName=GPIO_EXT Member=Component DRV_I2C 0R 1% 0805
+Added Member To Class: ClassName=GPIO_EXT Member=Component DRV_MCU 0R 1% 0805
+Added Member To Class: ClassName=CHARGING Member=Component Q3 FS8205
+Added Member To Class: ClassName=CHARGING Member=Component Q4 FS8205
+Added Member To Class: ClassName=CHARGING Member=Component Q5 FS8205
+Added Member To Class: ClassName=USB-ESP32 Member=Component R31 0R 1% 0805
+Added Member To Class: ClassName=GPIO_EXT Member=Component RA1 CAY16-103J4LF
+Added Member To Class: ClassName=GPIO_EXT Member=Component RA2 CAY16-103J4LF
+Added Member To Class: ClassName=GPIO_EXT Member=Component RA3 CAY16-103J4LF
+Added Member To Class: ClassName=CHARGING Member=Component U15 DW01A
+Added Member To Class: ClassName=CHARGING Member=Component U16 DW01A
+Added Member To Class: ClassName=CHARGING Member=Component U17 DW01A
