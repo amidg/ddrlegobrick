@@ -183,6 +183,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ILXRFBQN
 
 [Document9]
+DocumentPath=POWER_REG.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GCIEOKDY
+
+[Document10]
 DocumentPath=ddrlegobrick.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
