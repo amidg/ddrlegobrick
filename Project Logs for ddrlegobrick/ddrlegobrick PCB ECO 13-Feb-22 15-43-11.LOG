@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=U3 Old Footprint=PW0016A_L New Footprint=PWP0016C_N
+Change Component Comment : Designator=U3 Old Comment=DRV8833PWR New Comment=DRV8833PWP
+Change Managed Component Library Link : Designator=U3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=011EABC5-B867-4B9D-BBA4-31599BCCC39B New ItemGUID=0DEA055B-C7CE-425E-9EB1-9701045CD1BC Old RevisionGUID=B22306D0-C9BD-4E12-A819-3A7A3B6DADE0 New RevisionGUID=00D03C7D-7F82-4C6B-BBD1-2EAD959948A8
+Change component parameters: Designator = "U3" ("U3"); Footprint = "PW0016A_L"; UniqueID = "\QBHEVVEJ" ("\QBHEVVEJ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "www.ti.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/drv8833.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ml/mpds371/mpds371.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Control I/F"; Value = "PWM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SLVSAR1D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "PWP0016C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "16-Pin Plastic Small Outline, Body 4.4 x 5 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "4073225-3/I"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "DRV8833PWP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Output Current"; Value = "2 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "rDS (ON) (LS + HS)"; Value = "360 mOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RMS Output Current"; Value = "1.5 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-40 to 85 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vs"; Value = "2.7 V Min."; VariantName = "[No Variations]"
+Added Member To Class: ClassName=CHARGING Member=Component C? 4.7uF 16V 0805

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=U4-17
+Added Pin To Net: NetName=GND Pin=U5-17
+Added Pin To Net: NetName=GND Pin=U6-17
+Added Member To Class: ClassName=CHARGING Member=Component C? 4.7uF 16V 0805

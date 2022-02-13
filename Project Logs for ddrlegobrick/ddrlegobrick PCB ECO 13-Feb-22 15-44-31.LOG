@@ -1,0 +1,39 @@
+Added Component: Designator=U3(PWP0016C_N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "www.ti.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/drv8833.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ml/mpds371/mpds371.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Control I/F"; Value = "PWM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLVSAR1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "PWP0016C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Plastic Small Outline, Body 4.4 x 5 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4073225-3/I"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DRV8833PWP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Output Current"; Value = "2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "rDS (ON) (LS + HS)"; Value = "360 mOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RMS Output Current"; Value = "1.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-40 to 85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs"; Value = "2.7 V Min."; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR14_2 Pin=U3-1
+Added Pin To Net: NetName=MOTOR1_CHA Pin=U3-2
+Added Pin To Net: NetName=NetRbsen1_2 Pin=U3-3
+Added Pin To Net: NetName=MOTOR1_CHB Pin=U3-4
+Added Pin To Net: NetName=MOTOR1_CHB Pin=U3-5
+Added Pin To Net: NetName=NetRasen1_2 Pin=U3-6
+Added Pin To Net: NetName=MOTOR1_CHA Pin=U3-7
+Added Pin To Net: NetName=MOTOR1_PWM_A Pin=U3-9
+Added Pin To Net: NetName=MOTOR1_PWM_B Pin=U3-10
+Added Pin To Net: NetName=NetC8_2 Pin=U3-11
+Added Pin To Net: NetName=BAT_PACK_12V6 Pin=U3-12
+Added Pin To Net: NetName=GND Pin=U3-13
+Added Pin To Net: NetName=NetC10_2 Pin=U3-14
+Added Pin To Net: NetName=MOTOR1_PWM_B Pin=U3-15
+Added Pin To Net: NetName=MOTOR1_PWM_A Pin=U3-16
+Added Member To Class: ClassName=CHARGING Member=Component C? 4.7uF 16V 0805
+Added Member To Class: ClassName=DRV8833 Member=Component U3 DRV8833PWP
