@@ -1,0 +1,37 @@
+Change Component Footprint: Designator=U12 Old Footprint=TO-263_M New Footprint=FP-KTT0003A-MFG
+Change Component Comment : Designator=U12 Old Comment=L7805CD2T-TR New Comment=UA7805CKTTR
+Change Managed Component Library Link : Designator=U12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D472FCC4-191F-42A8-A856-A4AA185A3545 New ItemGUID=CD91BEE8-F8F3-4446-800B-29E56368CF54 Old RevisionGUID=C85EE3C7-09BE-4FFE-8B36-50B8771CABA8 New RevisionGUID=4A5EC432-88C1-4C9C-B6C1-F0834C01DFC0
+Change component parameters: Designator = "U12" ("U12"); Footprint = "TO-263_M"; UniqueID = "\ZKPKBIFU" ("\ZKPKBIFU")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TO-263"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dropout Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.83mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "10.67mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Input Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Output Voltage"; Value = "5.2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Input Voltage"; Value = "7V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Output Voltage"; Value = "4.8V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Regulators"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Positive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "15W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "78dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current"; Value = "8mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.050897oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "9.65mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U12-2
+Added Member To Class: ClassName=CHARGING Member=Component C? 4.7uF 16V 0805
