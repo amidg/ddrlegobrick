@@ -98,7 +98,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OGXUVUIW
 
 [Document4]
-DocumentPath=MOTOR_DRIVER.SchDoc
+DocumentPath=DRV8833.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
