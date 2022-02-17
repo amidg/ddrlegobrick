@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=BAT_PACK_8V4 Pin=C30-2
+Added Pin To Net: NetName=BAT_PACK_4V2 Pin=C33-2
+Add Pin To Net: Unknown Pin: Pin Q3-5
+Added Pin To Net: NetName=BAT_PACK_8V4 Pin=Q3-S1
+Add Pin To Net: Unknown Pin: Pin Q4-5
+Added Pin To Net: NetName=BAT_PACK_4V2 Pin=Q4-S1
+Add Pin To Net: Unknown Pin: Pin Q5-5
+Added Pin To Net: NetName=BAT_PACK_8V4 Pin=R37-1
+Added Pin To Net: NetName=BAT_PACK_4V2 Pin=R40-1
+Added Member To Class: ClassName=POWER_REG Member=Component C23 10uF 25V 0805

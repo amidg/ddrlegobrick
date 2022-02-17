@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BAT_PACK_12V6 Pin=EXPANSION-1
+Removed Pin From Net: NetName=ESP32-I2C-SCL Pin=EXPANSION-2
+Removed Pin From Net: NetName=ESP32-I2C-SDA Pin=EXPANSION-3
+Removed Pin From Net: NetName=GND Pin=EXPANSION-4
+Removed Member From Class: ClassName=CONN Member=EXPANSION
+Add Pin To Net: Unknown Pin: Pin Q3-5
+Add Pin To Net: Unknown Pin: Pin Q4-5
+Add Pin To Net: Unknown Pin: Pin Q5-5

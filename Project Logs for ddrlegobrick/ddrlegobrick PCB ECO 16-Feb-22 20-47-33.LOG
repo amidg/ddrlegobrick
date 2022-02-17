@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=SERVO Old Footprint=61300311121 New Footprint=SAMTEC-SMH-103-02-X-S
+Change Component Comment : Designator=SERVO Old Comment=61300311121 New Comment=SAMTEC-SMH-103-02-X-SJ
+Change Managed Component Library Link : Designator=SERVO Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=269DF539-B4AC-4FD7-969B-C5D684274D8B New ItemGUID= Old RevisionGUID=31603ED1-16CA-4CE6-9EAD-47559F8C87F5 New RevisionGUID=
+Change component parameters: Designator = "SERVO" ("SERVO"); Footprint = "61300311121"; UniqueID = "\SQCIWGCM" ("\SQCIWGCM")
+Add Pin To Net: Unknown Pin: Pin Q3-5
+Add Pin To Net: Unknown Pin: Pin Q4-5
+Add Pin To Net: Unknown Pin: Pin Q5-5
