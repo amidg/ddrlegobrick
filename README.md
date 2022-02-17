@@ -15,7 +15,8 @@ My custom RC brick for Lego Power Functions and C+ motors. Support all current a
 ### Revision V1 (branch: hardware) -> active development
 - ESP32-WROOM-E (16MB version required)
 - 4x DRV8833 (parallel mode with 3A peak per motor)
-- 1x PCA9685 (2 active channels)
+- 1x MCP23008 (Battery monitoring, motor STO)
+- WS2812B addressable LED indicator
 - Support for Power Functions motors
 - Support for GeekServo (standard arduino 5V servo)
 
