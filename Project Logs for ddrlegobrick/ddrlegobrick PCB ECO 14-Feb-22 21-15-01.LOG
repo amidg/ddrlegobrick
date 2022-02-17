@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=U12-2
+Change Component Footprint: Designator=U12 Old Footprint=FP-DCY0004A-MFG New Footprint=TO-252_L
+Change Component Comment : Designator=U12 Old Comment=UA78M05IDCYR New Comment=L78M05CDT-TR
+Change Managed Component Library Link : Designator=U12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=4FFD9CE3-3D6D-46CA-A025-CFEEF4FD9479 New ItemGUID=5C66E18C-FFDF-4415-8182-358265EA5DF1 Old RevisionGUID=1F0A81D1-2FFB-4855-9535-913EA6A88013 New RevisionGUID=B2C8CEEB-DC74-4B86-B864-5B1C157D0580
+Change component parameters: Designator = "U12" ("U12"); Footprint = "FP-DCY0004A-MFG"; UniqueID = "\MKAWAJWK" ("\MKAWAJWK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000447.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "1/11/2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.28 mm Pitch, 9.7 mm Lead Span (DPAK)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-252"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "2011"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin Q3-5
+Add Pin To Net: Unknown Pin: Pin Q4-5
+Add Pin To Net: Unknown Pin: Pin Q5-5
