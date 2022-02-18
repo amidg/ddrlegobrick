@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=Q5-2
+Removed Pin From Net: NetName=GND Pin=Q5-4
+Removed Pin From Net: NetName=GND Pin=Q5-5
+Removed Pin From Net: NetName=NetBAT2_2 Pin=Q5-6
+Removed Pin From Net: NetName=GND Pin=Q5-7
+Removed Pin From Net: NetName=NetBAT3_2 Pin=Q5-8
+Removed Member From Class: ClassName=CHARGING Member=Q5
