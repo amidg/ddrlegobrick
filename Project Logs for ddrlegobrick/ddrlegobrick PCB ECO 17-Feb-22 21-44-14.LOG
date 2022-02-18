@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=BAT_PACK_12V6 Pin=R45-1
+Removed Pin From Net: NetName=GND Pin=SERVO-1
+Removed Member From Class: ClassName=POWER_REG Member=C23
+Removed Member From Class: ClassName=POWER_REG Member=D2
+Removed Member From Class: ClassName=POWER_REG Member=R45
+Removed Member From Class: ClassName=CONN Member=SERVO
