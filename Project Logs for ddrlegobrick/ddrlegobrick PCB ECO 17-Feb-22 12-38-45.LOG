@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=BAT_PACK_12V6 Pin=C29-1
+Removed Pin From Net: NetName=BAT_PACK_8V4 Pin=C32-1
+Removed Pin From Net: NetName=BAT_PACK_4V2 Pin=C35-1
+Removed Pin From Net: NetName=BAT_PACK_12V6 Pin=R38-1
+Removed Pin From Net: NetName=BAT_PACK_8V4 Pin=R41-1
+Removed Pin From Net: NetName=BAT_PACK_4V2 Pin=R44-1
+Removed Pin From Net: NetName=BAT_PACK_12V6 Pin=U15-5
+Removed Pin From Net: NetName=BAT_PACK_8V4 Pin=U16-5
+Removed Pin From Net: NetName=BAT_PACK_4V2 Pin=U17-5
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_1 Pin=R38-1
+Added Pin To Net: NetName=NetC29_1 Pin=U15-5
+Added Net: Name=NetC29_1
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Pin To Net: NetName=NetC32_1 Pin=R41-1
+Added Pin To Net: NetName=NetC32_1 Pin=U16-5
+Added Net: Name=NetC32_1
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=R44-1
+Added Pin To Net: NetName=NetC35_1 Pin=U17-5
+Added Net: Name=NetC35_1
