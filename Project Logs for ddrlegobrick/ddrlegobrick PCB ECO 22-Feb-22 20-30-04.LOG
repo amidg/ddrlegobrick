@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=ESP32 Old Footprint=FP-ESP32-WROOM-32D-MFG New Footprint=ESP32-WROOM-U
+Change Managed Component Library Link : Designator=ESP32 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=799CF5A2-3EBD-43A7-A909-80F082B40CA1 New ItemGUID= Old RevisionGUID=E2A12BCA-A9C9-4EC7-96E0-D7B53AEA4FB5 New RevisionGUID=
+Added Member To Class: ClassName=GPIO_EXT Member=Component RA2 CAY16-103J4LF
