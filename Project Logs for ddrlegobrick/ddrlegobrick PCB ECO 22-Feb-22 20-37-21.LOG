@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=MOTOR_DRV_ENABLE Pin=ESP32-8
+Added Pin To Net: NetName=SERVO_PWM Pin=ESP32-8
+Added Pin To Net: NetName=MOTOR_DRV_ENABLE Pin=U14-24
