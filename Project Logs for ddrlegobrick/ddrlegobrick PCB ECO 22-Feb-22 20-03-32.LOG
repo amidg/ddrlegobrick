@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=ADDR2 Pin=U14-1
+Removed Pin From Net: NetName=ADDR1 Pin=U14-2
+Removed Pin From Net: NetName=ADDR0 Pin=U14-3
+Removed Pin From Net: NetName=+5V Pin=U14-4
+Removed Pin From Net: NetName=BAT1_CHRG* Pin=U14-9
+Removed Pin From Net: NetName=BAT2_CHRG* Pin=U14-10
+Removed Pin From Net: NetName=BAT3_CHRG* Pin=U14-11
+Removed Pin From Net: NetName=BAT1_STDBY* Pin=U14-12
+Removed Pin From Net: NetName=BAT2_STDBY* Pin=U14-13
+Removed Pin From Net: NetName=BAT3_STDBY* Pin=U14-14
+Removed Pin From Net: NetName=USB_PWR_DET Pin=U14-15
+Removed Pin From Net: NetName=GND Pin=U14-17
+Removed Pin From Net: NetName=+5V Pin=U14-18
+Removed Pin From Net: NetName=ESP32-I2C-SCL Pin=U14-19
+Removed Pin From Net: NetName=ESP32-I2C-SDA Pin=U14-20
+Removed Pin From Net: NetName=GND Pin=U14-21
+Change Component Footprint: Designator=U14 Old Footprint=MCP23008 New Footprint=QFN-ML28_M
+Change Component Comment : Designator=U14 Old Comment=MCP23008T-E/ML New Comment=MCP23017-E/ML
+Change Managed Component Library Link : Designator=U14 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=7CEDB7B4-BD09-4156-9425-4C7484027D8D Old RevisionGUID= New RevisionGUID=AD7EAA26-4F60-4F83-B035-E0431D76C929
+Change component parameters: Designator = "U14" ("U14"); Footprint = "MCP23008"; UniqueID = "\UFUAXZOY" ("\UFUAXZOY")
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MO-220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.microchip.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21952b.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "revB, Feb-2007"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "28-Lead Plastic Quad Flat, No Lead Package (ML) - 6x6 mm Body [QFN] with 0.55 mm Contact Length"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "QFN-ML28"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RevisionNote"; Value = "URLs added."; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT_PACK_8V4_N Pin=Q4-S2
+Added Pin To Net: NetName=+5V Pin=U14-5
+Added Pin To Net: NetName=GND Pin=U14-6
+Added Pin To Net: NetName=ESP32-I2C-SCL Pin=U14-8
+Added Pin To Net: NetName=ESP32-I2C-SDA Pin=U14-9
+Added Pin To Net: NetName=ADDR0 Pin=U14-11
+Added Pin To Net: NetName=ADDR1 Pin=U14-12
+Added Pin To Net: NetName=ADDR2 Pin=U14-13
+Added Pin To Net: NetName=+5V Pin=U14-14
+Added Pin To Net: NetName=BAT1_CHRG* Pin=U14-17
+Added Pin To Net: NetName=BAT2_CHRG* Pin=U14-18
+Added Pin To Net: NetName=BAT3_CHRG* Pin=U14-19
+Added Pin To Net: NetName=BAT1_STDBY* Pin=U14-20
+Added Pin To Net: NetName=BAT2_STDBY* Pin=U14-21
+Added Pin To Net: NetName=BAT3_STDBY* Pin=U14-22
+Added Pin To Net: NetName=USB_PWR_DET Pin=U14-23
+Added Pin To Net: NetName=CHRG_EN_GND Pin=U14-25
+Added Pin To Net: NetName=CHRG_START Pin=U14-26
+Added Pin To Net: NetName=CHRG_START Pin=U14-27
+Added Pin To Net: NetName=CHRG_START Pin=U14-28
+Added Pin To Net: NetName=GND Pin=U14-29
+Added Pin To Net: NetName=BAT_PACK_CONN_8V4 Pin=R40-1
+Added Pin To Net: NetName=BAT_PACK_CONN_8V4 Pin=R41-1
+Added Pin To Net: NetName=BAT_PACK_CONN_8V4 Pin=U14-1
+Added Net: Name=BAT_PACK_CONN_8V4
+Added Pin To Net: NetName=BAT_PACK_CONN_12V6 Pin=R37-1
+Added Pin To Net: NetName=BAT_PACK_CONN_12V6 Pin=R38-1
+Added Pin To Net: NetName=BAT_PACK_CONN_12V6 Pin=U14-2
+Added Net: Name=BAT_PACK_CONN_12V6
