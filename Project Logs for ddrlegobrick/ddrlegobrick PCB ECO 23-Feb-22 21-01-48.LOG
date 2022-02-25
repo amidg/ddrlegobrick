@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BAT2_CHRG* Pin=RA1-4
+Removed Pin From Net: NetName=BAT3_STDBY* Pin=RA2-1
+Removed Pin From Net: NetName=BAT2_CHRG* Pin=U14-18
+Removed Pin From Net: NetName=BAT3_STDBY* Pin=U14-19
+Added Pin To Net: NetName=BAT3_STDBY* Pin=RA1-4
+Added Pin To Net: NetName=BAT2_CHRG* Pin=RA2-1
+Added Pin To Net: NetName=BAT3_STDBY* Pin=U14-18
+Added Pin To Net: NetName=BAT2_CHRG* Pin=U14-19

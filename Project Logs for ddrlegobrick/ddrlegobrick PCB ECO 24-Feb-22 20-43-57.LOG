@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=CHRG_START_4V2 Pin=U9-8
+Added Pin To Net: NetName=CHRG_START_4V2 Pin=U14-26
+Added Net: Name=CHRG_START_4V2
+Added Pin To Net: NetName=CHRG_START_8V4 Pin=U8-8
+Added Pin To Net: NetName=CHRG_START_8V4 Pin=U14-27
+Added Net: Name=CHRG_START_8V4
+Added Pin To Net: NetName=CHRG_START_12V6 Pin=U7-8
+Added Pin To Net: NetName=CHRG_START_12V6 Pin=U14-28
+Added Net: Name=CHRG_START_12V6

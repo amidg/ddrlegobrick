@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ESP32-I2C-SDA Pin=RA1-1
+Removed Pin From Net: NetName=ESP32-I2C-SCL Pin=RA1-2
+Added Pin To Net: NetName=ESP32-I2C-SCL Pin=RA1-1
+Added Pin To Net: NetName=ESP32-I2C-SDA Pin=RA1-2

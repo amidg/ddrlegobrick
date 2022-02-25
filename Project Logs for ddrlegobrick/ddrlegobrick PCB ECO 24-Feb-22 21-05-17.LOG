@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=BAT_PACK_12V6 Pin=R34-2
+Added Pin To Net: NetName=VCC_12V6 Pin=R34-2

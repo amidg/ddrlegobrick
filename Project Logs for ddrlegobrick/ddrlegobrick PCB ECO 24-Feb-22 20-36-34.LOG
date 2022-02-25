@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=BAT_PACK_12V6 Pin=C30-1
+Removed Pin From Net: NetName=BAT_PACK_8V4 Pin=C30-2
+Removed Pin From Net: NetName=BAT_PACK_8V4 Pin=C33-1
+Removed Pin From Net: NetName=BAT_PACK_4V2 Pin=C33-2
+Removed Pin From Net: NetName=BAT_PACK_4V2 Pin=C36-1
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Member From Class: ClassName=CHARGING Member=C30
+Removed Member From Class: ClassName=CHARGING Member=C33
+Removed Member From Class: ClassName=CHARGING Member=C36

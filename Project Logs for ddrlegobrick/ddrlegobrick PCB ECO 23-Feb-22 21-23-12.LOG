@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=BAT3_CHRG* Pin=RA1-3
+Removed Pin From Net: NetName=BAT3_STDBY* Pin=RA1-4
+Removed Pin From Net: NetName=BAT3_CHRG* Pin=U14-17
+Removed Pin From Net: NetName=BAT3_STDBY* Pin=U14-18
+Added Pin To Net: NetName=BAT3_STDBY* Pin=RA1-3
+Added Pin To Net: NetName=BAT3_CHRG* Pin=RA1-4
+Added Pin To Net: NetName=BAT3_STDBY* Pin=U14-17
+Added Pin To Net: NetName=BAT3_CHRG* Pin=U14-18
+Added Member To Class: ClassName=CONN Member=Component SERVO 61300311121

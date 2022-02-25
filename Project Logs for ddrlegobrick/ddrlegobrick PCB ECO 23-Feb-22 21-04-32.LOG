@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MOTOR4_PWM_A Pin=ESP32-11
+Removed Pin From Net: NetName=MOTOR4_PWM_B Pin=ESP32-12
+Removed Pin From Net: NetName=MOTOR1_PWM_A Pin=ESP32-27
+Removed Pin From Net: NetName=MOTOR1_PWM_B Pin=ESP32-28
+Added Pin To Net: NetName=MOTOR1_PWM_A Pin=ESP32-11
+Added Pin To Net: NetName=MOTOR1_PWM_B Pin=ESP32-12
+Added Pin To Net: NetName=MOTOR4_PWM_A Pin=ESP32-27
+Added Pin To Net: NetName=MOTOR4_PWM_B Pin=ESP32-28
