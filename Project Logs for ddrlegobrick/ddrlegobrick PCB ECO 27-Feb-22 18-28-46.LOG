@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=USB_PWR_DET Pin=R31-1
+Removed Pin From Net: NetName=USB_PWR_DET Pin=U14-23
+Added Component: Designator=R47(RESC2013X60X40ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA6AEB123V"; VariantName = "[No Variations]"
+Added Component: Designator=R48(RESC0805(2012)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20000.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_PWR_DET Pin=ESP32-4
+Added Pin To Net: NetName=USB_PWR_DET Pin=R47-1
+Added Pin To Net: NetName=GND Pin=R48-1
+Added Pin To Net: NetName=USB_PWR_DET Pin=R48-2
+Added Pin To Net: NetName=MOTOR_DRV1_EN Pin=R14-1
+Added Pin To Net: NetName=MOTOR_DRV1_EN Pin=U14-23
+Added Net: Name=MOTOR_DRV1_EN
+Added Pin To Net: NetName=MOTOR_DRV2_EN Pin=R15-1
+Added Pin To Net: NetName=MOTOR_DRV2_EN Pin=U14-24
+Added Net: Name=MOTOR_DRV2_EN
+Added Pin To Net: NetName=MOTOR_DRV3_EN Pin=R16-1
+Added Pin To Net: NetName=MOTOR_DRV3_EN Pin=U14-3
+Added Net: Name=MOTOR_DRV3_EN
+Added Pin To Net: NetName=MOTOR_DRV4_EN Pin=R17-1
+Added Pin To Net: NetName=MOTOR_DRV4_EN Pin=U14-4
+Added Net: Name=MOTOR_DRV4_EN
+Add Net: Net with name "USB_PWR_DET" already exists
+Added Member To Class: ClassName=ESP32 Member=Component R47 10K 5% 0805
+Added Member To Class: ClassName=ESP32 Member=Component R48 20K 5% 0805

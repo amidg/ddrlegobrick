@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=USB_PWR_DET New Net Name=USB_PWR_DET_3V3
+Added Pin To Net: NetName=USB_PWR_DET Pin=R31-1
+Added Pin To Net: NetName=USB_PWR_DET Pin=R47-2
+Added Net: Name=USB_PWR_DET

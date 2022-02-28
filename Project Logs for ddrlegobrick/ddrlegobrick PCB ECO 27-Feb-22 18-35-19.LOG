@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MOTOR_DRV4_EN Pin=U14-4
+Removed Pin From Net: NetName=MOTOR_DRV1_EN Pin=U14-23
+Added Pin To Net: NetName=MOTOR_DRV1_EN Pin=U14-4
+Added Pin To Net: NetName=MOTOR_DRV4_EN Pin=U14-23
